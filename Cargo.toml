@@ -1,0 +1,10 @@
+[package]
+name = "web-browser"
+version = "0.1.0"    
+authors = ["Teymur <me@tymbb.com>"]
+repository = "https://github.com/teymuur/rust-web-browser"
+
+
+[dependencies]
+webview = "0.1.1"
+gtk = "0.9"
